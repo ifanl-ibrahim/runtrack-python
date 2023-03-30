@@ -1,0 +1,1 @@
+n = int(input("Entrez le nombre de dames : "))
